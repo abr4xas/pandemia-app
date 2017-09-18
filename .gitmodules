@@ -1,0 +1,3 @@
+[submodule "pandemia"]
+	path = pandemia
+	url = https://github.com/satanas/pandemia.git
